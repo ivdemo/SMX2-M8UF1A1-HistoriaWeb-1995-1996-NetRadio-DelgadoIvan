@@ -16,6 +16,10 @@
 
 ![Logo del formato RealAudio 1.0][Logo real audio1.0]
 
+- <p style="text-align: justify;"> Cuando Arbitron (empresa de investigación de consumidores) comenzó a calificar las webs de radio por Internet, NetRadio ocupaba constantemente 8 de los 10 primeros puestos.
+
+
+
 
 
 
