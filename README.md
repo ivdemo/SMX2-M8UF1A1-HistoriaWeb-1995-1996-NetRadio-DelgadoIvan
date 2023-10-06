@@ -18,7 +18,7 @@
 
 - <p style="text-align: justify;"> Cuando Arbitron (empresa de investigación de consumidores) comenzó a calificar las webs de radio por Internet, NetRadio ocupaba constantemente 8 de los 10 primeros puestos.
 
-
+![Logo de la empresa Arbitron][Logo arbitron]
 
 
 
@@ -30,3 +30,5 @@
 [Logo ascap]: https://github.com/ivdemo/SMX2-M8UF1A1-HistoriaWeb-1995-1996-NetRadio-DelgadoIvan/blob/main/Imagenes/Logo%20ascap.png?raw=true
 
 [Logo real audio1.0]: https://github.com/ivdemo/SMX2-M8UF1A1-HistoriaWeb-1995-1996-NetRadio-DelgadoIvan/blob/main/Imagenes/Logo%20Real%20Audio%201.0.jpg?raw=true
+
+[Logo arbitron]: https://github.com/ivdemo/SMX2-M8UF1A1-HistoriaWeb-1995-1996-NetRadio-DelgadoIvan/blob/main/Imagenes/Logo%20arbitron.jpg?raw=true
