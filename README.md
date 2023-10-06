@@ -8,7 +8,9 @@
 
 ### Curiosidades
 
-- NetRadio fue la primera red de radio en Internet en recibir una licencia experimental de ASCAP (American Society of Composers, Authors and Publishers), la cual más tarde se convirtió en una licencia estándar para todas las emisoras de radio en línea.
+- <p style="text-align: justify;"> NetRadio fue la primera red de radio en Internet en recibir una licencia experimental de ASCAP (American Society of Composers, Authors and Publishers), la cual más tarde se convirtió en una licencia estándar para todas las emisoras de radio en línea.
+
+
 
 
 
