@@ -12,8 +12,9 @@
 
 ![Logo de la licencia ASCAP][Logo ascap]
 
-- NetRadio comenzó a utilizar RealAudio 1.0 (formato de audio que aligeraba el streaming de audio en internet) en noviembre de 1995 para transmitir su música. Comenzó con cuatro formatos y dos años después se expandió a más de una docena.
+- <p style="text-align: justify;"> NetRadio comenzó a utilizar RealAudio 1.0 (formato de audio que aligeraba el streaming de audio en internet) en noviembre de 1995 para transmitir su música. Comenzó con cuatro formatos y dos años después se expandió a más de una docena.
 
+![Logo del formato RealAudio 1.0][Logo real audio1.0]
 
 
 
@@ -23,3 +24,5 @@
 [Logo NetRadio]: https://github.com/ivdemo/SMX2-M8UF1A1-HistoriaWeb-1995-1996-NetRadio-DelgadoIvan/blob/main/Imagenes/Logo%20NetRadio.jpg?raw=true
 
 [Logo ascap]: https://github.com/ivdemo/SMX2-M8UF1A1-HistoriaWeb-1995-1996-NetRadio-DelgadoIvan/blob/main/Imagenes/Logo%20ascap.png?raw=true
+
+[Logo real audio1.0]: https://github.com/ivdemo/SMX2-M8UF1A1-HistoriaWeb-1995-1996-NetRadio-DelgadoIvan/blob/main/Imagenes/Logo%20Real%20Audio%201.0.jpg?raw=true
