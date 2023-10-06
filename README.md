@@ -10,7 +10,9 @@
 
 - <p style="text-align: justify;"> NetRadio fue la primera red de radio en Internet en recibir una licencia experimental de ASCAP (American Society of Composers, Authors and Publishers), la cual más tarde se convirtió en una licencia estándar para todas las emisoras de radio en línea.
 
+![Logo de la licencia ASCAP][Logo ascap]
 
+- NetRadio comenzó a utilizar RealAudio 1.0 (formato de audio que aligeraba el streaming de audio en internet) en noviembre de 1995 para transmitir su música. Comenzó con cuatro formatos y dos años después se expandió a más de una docena.
 
 
 
@@ -19,3 +21,5 @@
 <!--Apartado para logos e imagenes-->
 
 [Logo NetRadio]: https://github.com/ivdemo/SMX2-M8UF1A1-HistoriaWeb-1995-1996-NetRadio-DelgadoIvan/blob/main/Imagenes/Logo%20NetRadio.jpg?raw=true
+
+[Logo ascap]: https://github.com/ivdemo/SMX2-M8UF1A1-HistoriaWeb-1995-1996-NetRadio-DelgadoIvan/blob/main/Imagenes/Logo%20ascap.png?raw=true
